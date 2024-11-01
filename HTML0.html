@@ -12,6 +12,7 @@
 <Ol>
     <li><a href="HTML1.html"><b>ДАРСИ 1</b></a></li>
     <li><a href="HTML2.html"><b>ДАРСИ 2</b></a></li>
+    <li><a href="HTML3.html"><b>ДАРСИ 3</b></a></li>
 </Ol>
 </body>
 </html>
